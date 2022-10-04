@@ -1,4 +1,4 @@
-package de.androidcrypto.androidbottomnavigationown1;
+package de.androidcrypto.androidbottommainnavigationown1;
 
 import org.junit.Test;
 
